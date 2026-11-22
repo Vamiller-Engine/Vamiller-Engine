@@ -53,7 +53,7 @@ I believe in transparent development, clear agreements, and predictable pricing.
 2. **Fixed Pricing** — the total project cost is agreed upon before work starts.
 3. **Progress Updates** — I show implemented features, code changes, and development progress.
 4. **Video Demonstrations** — I provide video updates demonstrating the current state and functionality of the project.
-5. **Final Payment & Delivery** — the remaining 85% is paid after the project is completed and demonstrated. Full source code, project files, and deployment are delivered after full payment.
+5. **Final Payment & Delivery** — the remaining 70% is paid after the project is completed and demonstrated. Full source code, project files, and deployment are delivered after full payment.
 
 Any changes to the agreed scope are discussed separately.
 
