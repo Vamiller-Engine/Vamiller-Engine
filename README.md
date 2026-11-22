@@ -49,7 +49,7 @@ I'm open to both conventional and unconventional projects. If you have an idea, 
 
 I believe in transparent development, clear agreements, and predictable pricing.
 
-1. **15% Upfront Payment** — required before development begins.
+1. **30% Upfront Payment** — required before development begins.
 2. **Fixed Pricing** — the total project cost is agreed upon before work starts.
 3. **Progress Updates** — I show implemented features, code changes, and development progress.
 4. **Video Demonstrations** — I provide video updates demonstrating the current state and functionality of the project.
