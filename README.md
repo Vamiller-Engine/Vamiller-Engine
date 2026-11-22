@@ -68,7 +68,7 @@ During development, I use a separate development environment and test credential
 Have an idea or need a custom software solution? Feel free to contact me.
 
 - **Discord:** @vamiler
-- **Telegram:** [Your Telegram]
+- **Telegram:** @LyMiN_account
 
 For project inquiries, specifications, and pricing, contact me through direct messages.
 
